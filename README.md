@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @jaideep-y
-- 👀 I’m interested in web-development
-- 🌱 I’m currently learning Java script
-- 💞️ I’m looking to collaborate on CSS
+- 👀 I’m interested in coding
 - 📫 How to reach me jaideepy772@gmail.com
 
 <!---
